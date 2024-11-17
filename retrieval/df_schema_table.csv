@@ -1,0 +1,750 @@
+database,table,processed_database,processed_table,database_and_table
+academic,author,academic,author,academic author
+academic,conference,academic,conference,academic conference
+academic,domain,academic,domain,academic domain
+academic,domain_author,academic,domain author,academic domain author
+academic,domain_conference,academic,domain conference,academic domain conference
+academic,journal,academic,journal,academic journal
+academic,domain_journal,academic,domain journal,academic domain journal
+academic,keyword,academic,keyword,academic keyword
+academic,domain_keyword,academic,domain keyword,academic domain keyword
+academic,publication,academic,publication,academic publication
+academic,domain_publication,academic,domain publication,academic domain publication
+academic,organization,academic,organization,academic organization
+academic,publication_keyword,academic,publication keyword,academic publication keyword
+academic,writes,academic,writes,academic writes
+academic,cite,academic,cite,academic cite
+activity_1,Activity,activity 1,Activity,activity 1 Activity
+activity_1,Participates_in,activity 1,Participates in,activity 1 Participates in
+activity_1,Faculty_Participates_in,activity 1,Faculty Participates in,activity 1 Faculty Participates in
+activity_1,Student,activity 1,Student,activity 1 Student
+activity_1,Faculty,activity 1,Faculty,activity 1 Faculty
+aircraft,pilot,aircraft,pilot,aircraft pilot
+aircraft,aircraft,aircraft,aircraft,aircraft aircraft
+aircraft,match,aircraft,match,aircraft match
+aircraft,airport,aircraft,airport,aircraft airport
+aircraft,airport_aircraft,aircraft,airport aircraft,aircraft airport aircraft
+allergy_1,Allergy_Type,allergy 1,Allergy Type,allergy 1 Allergy Type
+allergy_1,Has_Allergy,allergy 1,Has Allergy,allergy 1 Has Allergy
+allergy_1,Student,allergy 1,Student,allergy 1 Student
+apartment_rentals,Apartment_Buildings,apartment rentals,Apartment Buildings,apartment rentals Apartment Buildings
+apartment_rentals,Apartments,apartment rentals,Apartments,apartment rentals Apartments
+apartment_rentals,Apartment_Facilities,apartment rentals,Apartment Facilities,apartment rentals Apartment Facilities
+apartment_rentals,Guests,apartment rentals,Guests,apartment rentals Guests
+apartment_rentals,Apartment_Bookings,apartment rentals,Apartment Bookings,apartment rentals Apartment Bookings
+apartment_rentals,View_Unit_Status,apartment rentals,View Unit Status,apartment rentals View Unit Status
+architecture,architect,architecture,architect,architecture architect
+architecture,bridge,architecture,bridge,architecture bridge
+architecture,mill,architecture,mill,architecture mill
+assets_maintenance,Third_Party_Companies,assets maintenance,Third Party Companies,assets maintenance Third Party Companies
+assets_maintenance,Maintenance_Contracts,assets maintenance,Maintenance Contracts,assets maintenance Maintenance Contracts
+assets_maintenance,Parts,assets maintenance,Parts,assets maintenance Parts
+assets_maintenance,Skills,assets maintenance,Skills,assets maintenance Skills
+assets_maintenance,Staff,assets maintenance,Staff,assets maintenance Staff
+assets_maintenance,Assets,assets maintenance,Assets,assets maintenance Assets
+assets_maintenance,Asset_Parts,assets maintenance,Asset Parts,assets maintenance Asset Parts
+assets_maintenance,Maintenance_Engineers,assets maintenance,Maintenance Engineers,assets maintenance Maintenance Engineers
+assets_maintenance,Engineer_Skills,assets maintenance,Engineer Skills,assets maintenance Engineer Skills
+assets_maintenance,Fault_Log,assets maintenance,Fault Log,assets maintenance Fault Log
+assets_maintenance,Engineer_Visits,assets maintenance,Engineer Visits,assets maintenance Engineer Visits
+assets_maintenance,Part_Faults,assets maintenance,Part Faults,assets maintenance Part Faults
+assets_maintenance,Fault_Log_Parts,assets maintenance,Fault Log Parts,assets maintenance Fault Log Parts
+assets_maintenance,Skills_Required_To_Fix,assets maintenance,Skills Required To Fix,assets maintenance Skills Required To Fix
+baseball_1,all_star,baseball 1,all star,baseball 1 all star
+baseball_1,appearances,baseball 1,appearances,baseball 1 appearances
+baseball_1,manager_award,baseball 1,manager award,baseball 1 manager award
+baseball_1,player_award,baseball 1,player award,baseball 1 player award
+baseball_1,manager_award_vote,baseball 1,manager award vote,baseball 1 manager award vote
+baseball_1,player_award_vote,baseball 1,player award vote,baseball 1 player award vote
+baseball_1,batting,baseball 1,batting,baseball 1 batting
+baseball_1,batting_postseason,baseball 1,batting postseason,baseball 1 batting postseason
+baseball_1,player_college,baseball 1,player college,baseball 1 player college
+baseball_1,fielding,baseball 1,fielding,baseball 1 fielding
+baseball_1,fielding_outfield,baseball 1,fielding outfield,baseball 1 fielding outfield
+baseball_1,fielding_postseason,baseball 1,fielding postseason,baseball 1 fielding postseason
+baseball_1,hall_of_fame,baseball 1,hall of fame,baseball 1 hall of fame
+baseball_1,home_game,baseball 1,home game,baseball 1 home game
+baseball_1,manager,baseball 1,manager,baseball 1 manager
+baseball_1,manager_half,baseball 1,manager half,baseball 1 manager half
+baseball_1,player,baseball 1,player,baseball 1 player
+baseball_1,park,baseball 1,park,baseball 1 park
+baseball_1,pitching,baseball 1,pitching,baseball 1 pitching
+baseball_1,pitching_postseason,baseball 1,pitching postseason,baseball 1 pitching postseason
+baseball_1,salary,baseball 1,salary,baseball 1 salary
+baseball_1,college,baseball 1,college,baseball 1 college
+baseball_1,postseason,baseball 1,postseason,baseball 1 postseason
+baseball_1,team,baseball 1,team,baseball 1 team
+baseball_1,team_franchise,baseball 1,team franchise,baseball 1 team franchise
+baseball_1,team_half,baseball 1,team half,baseball 1 team half
+battle_death,battle,battle death,battle,battle death battle
+battle_death,ship,battle death,ship,battle death ship
+battle_death,death,battle death,death,battle death death
+behavior_monitoring,Ref_Address_Types,behavior monitoring,Ref Address Types,behavior monitoring Ref Address Types
+behavior_monitoring,Ref_Detention_Type,behavior monitoring,Ref Detention Type,behavior monitoring Ref Detention Type
+behavior_monitoring,Ref_Incident_Type,behavior monitoring,Ref Incident Type,behavior monitoring Ref Incident Type
+behavior_monitoring,Addresses,behavior monitoring,Addresses,behavior monitoring Addresses
+behavior_monitoring,Students,behavior monitoring,Students,behavior monitoring Students
+behavior_monitoring,Teachers,behavior monitoring,Teachers,behavior monitoring Teachers
+behavior_monitoring,Assessment_Notes,behavior monitoring,Assessment Notes,behavior monitoring Assessment Notes
+behavior_monitoring,Behavior_Incident,behavior monitoring,Behavior Incident,behavior monitoring Behavior Incident
+behavior_monitoring,Detention,behavior monitoring,Detention,behavior monitoring Detention
+behavior_monitoring,Student_Addresses,behavior monitoring,Student Addresses,behavior monitoring Student Addresses
+behavior_monitoring,Students_in_Detention,behavior monitoring,Students in Detention,behavior monitoring Students in Detention
+bike_1,station,bike 1,station,bike 1 station
+bike_1,status,bike 1,status,bike 1 status
+bike_1,trip,bike 1,trip,bike 1 trip
+bike_1,weather,bike 1,weather,bike 1 weather
+body_builder,body_builder,body builder,body builder,body builder body builder
+body_builder,people,body builder,people,body builder people
+book_2,publication,book 2,publication,book 2 publication
+book_2,book,book 2,book,book 2 book
+candidate_poll,candidate,candidate poll,candidate,candidate poll candidate
+candidate_poll,people,candidate poll,people,candidate poll people
+cinema,film,cinema,film,cinema film
+cinema,cinema,cinema,cinema,cinema cinema
+cinema,schedule,cinema,schedule,cinema schedule
+city_record,city,city record,city,city record city
+city_record,match,city record,match,city record match
+city_record,temperature,city record,temperature,city record temperature
+city_record,hosting_city,city record,hosting city,city record hosting city
+climbing,mountain,climbing,mountain,climbing mountain
+climbing,climber,climbing,climber,climbing climber
+club_1,Student,club 1,Student,club 1 Student
+club_1,Club,club 1,Club,club 1 Club
+club_1,Member_of_club,club 1,Member of club,club 1 Member of club
+coffee_shop,shop,coffee shop,shop,coffee shop shop
+coffee_shop,member,coffee shop,member,coffee shop member
+coffee_shop,happy_hour,coffee shop,happy hour,coffee shop happy hour
+coffee_shop,happy_hour_member,coffee shop,happy hour member,coffee shop happy hour member
+college_3,Student,college 3,Student,college 3 Student
+college_3,Faculty,college 3,Faculty,college 3 Faculty
+college_3,Department,college 3,Department,college 3 Department
+college_3,Member_of,college 3,Member of,college 3 Member of
+college_3,Course,college 3,Course,college 3 Course
+college_3,Minor_in,college 3,Minor in,college 3 Minor in
+college_3,Enrolled_in,college 3,Enrolled in,college 3 Enrolled in
+college_3,Gradeconversion,college 3,Gradeconversion,college 3 Gradeconversion
+company_employee,people,company employee,people,company employee people
+company_employee,company,company employee,company,company employee company
+company_employee,employment,company employee,employment,company employee employment
+company_office,buildings,company office,buildings,company office buildings
+company_office,Companies,company office,Companies,company office Companies
+company_office,Office_locations,company office,Office locations,company office Office locations
+concert_singer,stadium,concert singer,stadium,concert singer stadium
+concert_singer,singer,concert singer,singer,concert singer singer
+concert_singer,concert,concert singer,concert,concert singer concert
+concert_singer,singer_in_concert,concert singer,singer in concert,concert singer singer in concert
+county_public_safety,county_public_safety,county public safety,county public safety,county public safety county public safety
+county_public_safety,city,county public safety,city,county public safety city
+course_teach,course,course teach,course,course teach course
+course_teach,teacher,course teach,teacher,course teach teacher
+course_teach,course_arrange,course teach,course arrange,course teach course arrange
+cre_Doc_Control_Systems,Ref_Document_Types,cre Doc Control Systems,Ref Document Types,cre Doc Control Systems Ref Document Types
+cre_Doc_Control_Systems,Roles,cre Doc Control Systems,Roles,cre Doc Control Systems Roles
+cre_Doc_Control_Systems,Addresses,cre Doc Control Systems,Addresses,cre Doc Control Systems Addresses
+cre_Doc_Control_Systems,Ref_Document_Status,cre Doc Control Systems,Ref Document Status,cre Doc Control Systems Ref Document Status
+cre_Doc_Control_Systems,Ref_Shipping_Agents,cre Doc Control Systems,Ref Shipping Agents,cre Doc Control Systems Ref Shipping Agents
+cre_Doc_Control_Systems,Documents,cre Doc Control Systems,Documents,cre Doc Control Systems Documents
+cre_Doc_Control_Systems,Employees,cre Doc Control Systems,Employees,cre Doc Control Systems Employees
+cre_Doc_Control_Systems,Document_Drafts,cre Doc Control Systems,Document Drafts,cre Doc Control Systems Document Drafts
+cre_Doc_Control_Systems,Draft_Copies,cre Doc Control Systems,Draft Copies,cre Doc Control Systems Draft Copies
+cre_Doc_Control_Systems,Circulation_History,cre Doc Control Systems,Circulation History,cre Doc Control Systems Circulation History
+cre_Doc_Control_Systems,Documents_Mailed,cre Doc Control Systems,Documents Mailed,cre Doc Control Systems Documents Mailed
+cre_Doc_Template_Mgt,Ref_Template_Types,cre Doc Template Mgt,Ref Template Types,cre Doc Template Mgt Ref Template Types
+cre_Doc_Template_Mgt,Templates,cre Doc Template Mgt,Templates,cre Doc Template Mgt Templates
+cre_Doc_Template_Mgt,Documents,cre Doc Template Mgt,Documents,cre Doc Template Mgt Documents
+cre_Doc_Template_Mgt,Paragraphs,cre Doc Template Mgt,Paragraphs,cre Doc Template Mgt Paragraphs
+cre_Doc_Tracking_DB,Ref_Document_Types,cre Doc Tracking DB,Ref Document Types,cre Doc Tracking DB Ref Document Types
+cre_Doc_Tracking_DB,Ref_Calendar,cre Doc Tracking DB,Ref Calendar,cre Doc Tracking DB Ref Calendar
+cre_Doc_Tracking_DB,Ref_Locations,cre Doc Tracking DB,Ref Locations,cre Doc Tracking DB Ref Locations
+cre_Doc_Tracking_DB,Roles,cre Doc Tracking DB,Roles,cre Doc Tracking DB Roles
+cre_Doc_Tracking_DB,All_Documents,cre Doc Tracking DB,All Documents,cre Doc Tracking DB All Documents
+cre_Doc_Tracking_DB,Employees,cre Doc Tracking DB,Employees,cre Doc Tracking DB Employees
+cre_Doc_Tracking_DB,Document_Locations,cre Doc Tracking DB,Document Locations,cre Doc Tracking DB Document Locations
+cre_Doc_Tracking_DB,Documents_to_be_Destroyed,cre Doc Tracking DB,Documents to be Destroyed,cre Doc Tracking DB Documents to be Destroyed
+cre_Docs_and_Epenses,Ref_Document_Types,cre Docs and Epenses,Ref Document Types,cre Docs and Epenses Ref Document Types
+cre_Docs_and_Epenses,Ref_Budget_Codes,cre Docs and Epenses,Ref Budget Codes,cre Docs and Epenses Ref Budget Codes
+cre_Docs_and_Epenses,Projects,cre Docs and Epenses,Projects,cre Docs and Epenses Projects
+cre_Docs_and_Epenses,Documents,cre Docs and Epenses,Documents,cre Docs and Epenses Documents
+cre_Docs_and_Epenses,Statements,cre Docs and Epenses,Statements,cre Docs and Epenses Statements
+cre_Docs_and_Epenses,Documents_with_Expenses,cre Docs and Epenses,Documents with Expenses,cre Docs and Epenses Documents with Expenses
+cre_Docs_and_Epenses,Accounts,cre Docs and Epenses,Accounts,cre Docs and Epenses Accounts
+cre_Drama_Workshop_Groups,Ref_Payment_Methods,cre Drama Workshop Groups,Ref Payment Methods,cre Drama Workshop Groups Ref Payment Methods
+cre_Drama_Workshop_Groups,Ref_Service_Types,cre Drama Workshop Groups,Ref Service Types,cre Drama Workshop Groups Ref Service Types
+cre_Drama_Workshop_Groups,Addresses,cre Drama Workshop Groups,Addresses,cre Drama Workshop Groups Addresses
+cre_Drama_Workshop_Groups,Products,cre Drama Workshop Groups,Products,cre Drama Workshop Groups Products
+cre_Drama_Workshop_Groups,Marketing_Regions,cre Drama Workshop Groups,Marketing Regions,cre Drama Workshop Groups Marketing Regions
+cre_Drama_Workshop_Groups,Clients,cre Drama Workshop Groups,Clients,cre Drama Workshop Groups Clients
+cre_Drama_Workshop_Groups,Drama_Workshop_Groups,cre Drama Workshop Groups,Drama Workshop Groups,cre Drama Workshop Groups Drama Workshop Groups
+cre_Drama_Workshop_Groups,Performers,cre Drama Workshop Groups,Performers,cre Drama Workshop Groups Performers
+cre_Drama_Workshop_Groups,Customers,cre Drama Workshop Groups,Customers,cre Drama Workshop Groups Customers
+cre_Drama_Workshop_Groups,Stores,cre Drama Workshop Groups,Stores,cre Drama Workshop Groups Stores
+cre_Drama_Workshop_Groups,Bookings,cre Drama Workshop Groups,Bookings,cre Drama Workshop Groups Bookings
+cre_Drama_Workshop_Groups,Performers_in_Bookings,cre Drama Workshop Groups,Performers in Bookings,cre Drama Workshop Groups Performers in Bookings
+cre_Drama_Workshop_Groups,Customer_Orders,cre Drama Workshop Groups,Customer Orders,cre Drama Workshop Groups Customer Orders
+cre_Drama_Workshop_Groups,Order_Items,cre Drama Workshop Groups,Order Items,cre Drama Workshop Groups Order Items
+cre_Drama_Workshop_Groups,Invoices,cre Drama Workshop Groups,Invoices,cre Drama Workshop Groups Invoices
+cre_Drama_Workshop_Groups,Services,cre Drama Workshop Groups,Services,cre Drama Workshop Groups Services
+cre_Drama_Workshop_Groups,Bookings_Services,cre Drama Workshop Groups,Bookings Services,cre Drama Workshop Groups Bookings Services
+cre_Drama_Workshop_Groups,Invoice_Items,cre Drama Workshop Groups,Invoice Items,cre Drama Workshop Groups Invoice Items
+cre_Theme_park,Ref_Hotel_Star_Ratings,cre Theme park,Ref Hotel Star Ratings,cre Theme park Ref Hotel Star Ratings
+cre_Theme_park,Locations,cre Theme park,Locations,cre Theme park Locations
+cre_Theme_park,Ref_Attraction_Types,cre Theme park,Ref Attraction Types,cre Theme park Ref Attraction Types
+cre_Theme_park,Visitors,cre Theme park,Visitors,cre Theme park Visitors
+cre_Theme_park,Features,cre Theme park,Features,cre Theme park Features
+cre_Theme_park,Hotels,cre Theme park,Hotels,cre Theme park Hotels
+cre_Theme_park,Tourist_Attractions,cre Theme park,Tourist Attractions,cre Theme park Tourist Attractions
+cre_Theme_park,Street_Markets,cre Theme park,Street Markets,cre Theme park Street Markets
+cre_Theme_park,Shops,cre Theme park,Shops,cre Theme park Shops
+cre_Theme_park,Museums,cre Theme park,Museums,cre Theme park Museums
+cre_Theme_park,Royal_Family,cre Theme park,Royal Family,cre Theme park Royal Family
+cre_Theme_park,Theme_Parks,cre Theme park,Theme Parks,cre Theme park Theme Parks
+cre_Theme_park,Visits,cre Theme park,Visits,cre Theme park Visits
+cre_Theme_park,Photos,cre Theme park,Photos,cre Theme park Photos
+cre_Theme_park,Staff,cre Theme park,Staff,cre Theme park Staff
+cre_Theme_park,Tourist_Attraction_Features,cre Theme park,Tourist Attraction Features,cre Theme park Tourist Attraction Features
+csu_1,Campuses,csu 1,Campuses,csu 1 Campuses
+csu_1,csu_fees,csu 1,csu fees,csu 1 csu fees
+csu_1,degrees,csu 1,degrees,csu 1 degrees
+csu_1,discipline_enrollments,csu 1,discipline enrollments,csu 1 discipline enrollments
+csu_1,enrollments,csu 1,enrollments,csu 1 enrollments
+csu_1,faculty,csu 1,faculty,csu 1 faculty
+culture_company,book_club,culture company,book club,culture company book club
+culture_company,movie,culture company,movie,culture company movie
+culture_company,culture_company,culture company,culture company,culture company culture company
+customer_complaints,Staff,customer complaints,Staff,customer complaints Staff
+customer_complaints,Customers,customer complaints,Customers,customer complaints Customers
+customer_complaints,Products,customer complaints,Products,customer complaints Products
+customer_complaints,Complaints,customer complaints,Complaints,customer complaints Complaints
+customer_deliveries,Products,customer deliveries,Products,customer deliveries Products
+customer_deliveries,Addresses,customer deliveries,Addresses,customer deliveries Addresses
+customer_deliveries,Customers,customer deliveries,Customers,customer deliveries Customers
+customer_deliveries,Regular_Orders,customer deliveries,Regular Orders,customer deliveries Regular Orders
+customer_deliveries,Regular_Order_Products,customer deliveries,Regular Order Products,customer deliveries Regular Order Products
+customer_deliveries,Actual_Orders,customer deliveries,Actual Orders,customer deliveries Actual Orders
+customer_deliveries,Actual_Order_Products,customer deliveries,Actual Order Products,customer deliveries Actual Order Products
+customer_deliveries,Customer_Addresses,customer deliveries,Customer Addresses,customer deliveries Customer Addresses
+customer_deliveries,Delivery_Routes,customer deliveries,Delivery Routes,customer deliveries Delivery Routes
+customer_deliveries,Delivery_Route_Locations,customer deliveries,Delivery Route Locations,customer deliveries Delivery Route Locations
+customer_deliveries,Trucks,customer deliveries,Trucks,customer deliveries Trucks
+customer_deliveries,Employees,customer deliveries,Employees,customer deliveries Employees
+customer_deliveries,Order_Deliveries,customer deliveries,Order Deliveries,customer deliveries Order Deliveries
+customers_and_addresses,Addresses,customers and addresses,Addresses,customers and addresses Addresses
+customers_and_addresses,Products,customers and addresses,Products,customers and addresses Products
+customers_and_addresses,Customers,customers and addresses,Customers,customers and addresses Customers
+customers_and_addresses,Customer_Addresses,customers and addresses,Customer Addresses,customers and addresses Customer Addresses
+customers_and_addresses,Customer_Contact_Channels,customers and addresses,Customer Contact Channels,customers and addresses Customer Contact Channels
+customers_and_addresses,Customer_Orders,customers and addresses,Customer Orders,customers and addresses Customer Orders
+customers_and_addresses,Order_Items,customers and addresses,Order Items,customers and addresses Order Items
+customers_and_invoices,Customers,customers and invoices,Customers,customers and invoices Customers
+customers_and_invoices,Orders,customers and invoices,Orders,customers and invoices Orders
+customers_and_invoices,Invoices,customers and invoices,Invoices,customers and invoices Invoices
+customers_and_invoices,Accounts,customers and invoices,Accounts,customers and invoices Accounts
+customers_and_invoices,Product_Categories,customers and invoices,Product Categories,customers and invoices Product Categories
+customers_and_invoices,Products,customers and invoices,Products,customers and invoices Products
+customers_and_invoices,Financial_Transactions,customers and invoices,Financial Transactions,customers and invoices Financial Transactions
+customers_and_invoices,Order_Items,customers and invoices,Order Items,customers and invoices Order Items
+customers_and_invoices,Invoice_Line_Items,customers and invoices,Invoice Line Items,customers and invoices Invoice Line Items
+customers_and_products_contacts,Addresses,customers and products contacts,Addresses,customers and products contacts Addresses
+customers_and_products_contacts,Products,customers and products contacts,Products,customers and products contacts Products
+customers_and_products_contacts,Customers,customers and products contacts,Customers,customers and products contacts Customers
+customers_and_products_contacts,Contacts,customers and products contacts,Contacts,customers and products contacts Contacts
+customers_and_products_contacts,Customer_Address_History,customers and products contacts,Customer Address History,customers and products contacts Customer Address History
+customers_and_products_contacts,Customer_Orders,customers and products contacts,Customer Orders,customers and products contacts Customer Orders
+customers_and_products_contacts,Order_Items,customers and products contacts,Order Items,customers and products contacts Order Items
+customers_campaigns_ecommerce,Premises,customers campaigns ecommerce,Premises,customers campaigns ecommerce Premises
+customers_campaigns_ecommerce,Products,customers campaigns ecommerce,Products,customers campaigns ecommerce Products
+customers_campaigns_ecommerce,Customers,customers campaigns ecommerce,Customers,customers campaigns ecommerce Customers
+customers_campaigns_ecommerce,Mailshot_Campaigns,customers campaigns ecommerce,Mailshot Campaigns,customers campaigns ecommerce Mailshot Campaigns
+customers_campaigns_ecommerce,Customer_Addresses,customers campaigns ecommerce,Customer Addresses,customers campaigns ecommerce Customer Addresses
+customers_campaigns_ecommerce,Customer_Orders,customers campaigns ecommerce,Customer Orders,customers campaigns ecommerce Customer Orders
+customers_campaigns_ecommerce,Mailshot_Customers,customers campaigns ecommerce,Mailshot Customers,customers campaigns ecommerce Mailshot Customers
+customers_campaigns_ecommerce,Order_Items,customers campaigns ecommerce,Order Items,customers campaigns ecommerce Order Items
+customers_card_transactions,Accounts,customers card transactions,Accounts,customers card transactions Accounts
+customers_card_transactions,Customers,customers card transactions,Customers,customers card transactions Customers
+customers_card_transactions,Customers_Cards,customers card transactions,Customers Cards,customers card transactions Customers Cards
+customers_card_transactions,Financial_Transactions,customers card transactions,Financial Transactions,customers card transactions Financial Transactions
+debate,people,debate,people,debate people
+debate,debate,debate,debate,debate debate
+debate,debate_people,debate,debate people,debate debate people
+decoration_competition,college,decoration competition,college,decoration competition college
+decoration_competition,member,decoration competition,member,decoration competition member
+decoration_competition,round,decoration competition,round,decoration competition round
+department_store,Addresses,department store,Addresses,department store Addresses
+department_store,Staff,department store,Staff,department store Staff
+department_store,Suppliers,department store,Suppliers,department store Suppliers
+department_store,Department_Store_Chain,department store,Department Store Chain,department store Department Store Chain
+department_store,Customers,department store,Customers,department store Customers
+department_store,Products,department store,Products,department store Products
+department_store,Supplier_Addresses,department store,Supplier Addresses,department store Supplier Addresses
+department_store,Customer_Addresses,department store,Customer Addresses,department store Customer Addresses
+department_store,Customer_Orders,department store,Customer Orders,department store Customer Orders
+department_store,Department_Stores,department store,Department Stores,department store Department Stores
+department_store,Departments,department store,Departments,department store Departments
+department_store,Order_Items,department store,Order Items,department store Order Items
+department_store,Product_Suppliers,department store,Product Suppliers,department store Product Suppliers
+department_store,Staff_Department_Assignments,department store,Staff Department Assignments,department store Staff Department Assignments
+device,device,device,device,device device
+device,shop,device,shop,device shop
+device,stock,device,stock,device stock
+document_management,Roles,document management,Roles,document management Roles
+document_management,Users,document management,Users,document management Users
+document_management,Document_Structures,document management,Document Structures,document management Document Structures
+document_management,Functional_Areas,document management,Functional Areas,document management Functional Areas
+document_management,Images,document management,Images,document management Images
+document_management,Documents,document management,Documents,document management Documents
+document_management,Document_Functional_Areas,document management,Document Functional Areas,document management Document Functional Areas
+document_management,Document_Sections,document management,Document Sections,document management Document Sections
+document_management,Document_Sections_Images,document management,Document Sections Images,document management Document Sections Images
+dog_kennels,Breeds,dog kennels,Breeds,dog kennels Breeds
+dog_kennels,Charges,dog kennels,Charges,dog kennels Charges
+dog_kennels,Sizes,dog kennels,Sizes,dog kennels Sizes
+dog_kennels,Treatment_Types,dog kennels,Treatment Types,dog kennels Treatment Types
+dog_kennels,Owners,dog kennels,Owners,dog kennels Owners
+dog_kennels,Dogs,dog kennels,Dogs,dog kennels Dogs
+dog_kennels,Professionals,dog kennels,Professionals,dog kennels Professionals
+dog_kennels,Treatments,dog kennels,Treatments,dog kennels Treatments
+dorm_1,Student,dorm 1,Student,dorm 1 Student
+dorm_1,Dorm,dorm 1,Dorm,dorm 1 Dorm
+dorm_1,Lives_in,dorm 1,Lives in,dorm 1 Lives in
+driving_school,Addresses,driving school,Addresses,driving school Addresses
+driving_school,Staff,driving school,Staff,driving school Staff
+driving_school,Vehicles,driving school,Vehicles,driving school Vehicles
+driving_school,Customers,driving school,Customers,driving school Customers
+driving_school,Customer_Payments,driving school,Customer Payments,driving school Customer Payments
+driving_school,Lessons,driving school,Lessons,driving school Lessons
+e_government,Addresses,e government,Addresses,e government Addresses
+e_government,Services,e government,Services,e government Services
+e_government,Forms,e government,Forms,e government Forms
+e_government,Individuals,e government,Individuals,e government Individuals
+e_government,Organizations,e government,Organizations,e government Organizations
+e_government,Parties,e government,Parties,e government Parties
+e_government,Organization_Contact_Individuals,e government,Organization Contact Individuals,e government Organization Contact Individuals
+e_government,Party_Addresses,e government,Party Addresses,e government Party Addresses
+e_government,Party_Forms,e government,Party Forms,e government Party Forms
+e_government,Party_Services,e government,Party Services,e government Party Services
+e_learning,Course_Authors_and_Tutors,e learning,Course Authors and Tutors,e learning Course Authors and Tutors
+e_learning,Students,e learning,Students,e learning Students
+e_learning,Subjects,e learning,Subjects,e learning Subjects
+e_learning,Courses,e learning,Courses,e learning Courses
+e_learning,Student_Course_Enrolment,e learning,Student Course Enrolment,e learning Student Course Enrolment
+e_learning,Student_Tests_Taken,e learning,Student Tests Taken,e learning Student Tests Taken
+election,county,election,county,election county
+election,party,election,party,election party
+election,election,election,election,election election
+election_representative,election,election representative,election,election representative election
+election_representative,representative,election representative,representative,election representative representative
+employee_hire_evaluation,employee,employee hire evaluation,employee,employee hire evaluation employee
+employee_hire_evaluation,shop,employee hire evaluation,shop,employee hire evaluation shop
+employee_hire_evaluation,hiring,employee hire evaluation,hiring,employee hire evaluation hiring
+employee_hire_evaluation,evaluation,employee hire evaluation,evaluation,employee hire evaluation evaluation
+entertainment_awards,festival_detail,entertainment awards,festival detail,entertainment awards festival detail
+entertainment_awards,artwork,entertainment awards,artwork,entertainment awards artwork
+entertainment_awards,nomination,entertainment awards,nomination,entertainment awards nomination
+entrepreneur,entrepreneur,entrepreneur,entrepreneur,entrepreneur entrepreneur
+entrepreneur,people,entrepreneur,people,entrepreneur people
+farm,city,farm,city,farm city
+farm,farm,farm,farm,farm farm
+farm,farm_competition,farm,farm competition,farm farm competition
+farm,competition_record,farm,competition record,farm competition record
+film_rank,film,film rank,film,film rank film
+film_rank,market,film rank,market,film rank market
+film_rank,film_market_estimation,film rank,film market estimation,film rank film market estimation
+flight_1,flight,flight 1,flight,flight 1 flight
+flight_1,aircraft,flight 1,aircraft,flight 1 aircraft
+flight_1,employee,flight 1,employee,flight 1 employee
+flight_1,certificate,flight 1,certificate,flight 1 certificate
+flight_company,airport,flight company,airport,flight company airport
+flight_company,operate_company,flight company,operate company,flight company operate company
+flight_company,flight,flight company,flight,flight company flight
+game_1,Student,game 1,Student,game 1 Student
+game_1,Video_Games,game 1,Video Games,game 1 Video Games
+game_1,Plays_Games,game 1,Plays Games,game 1 Plays Games
+game_1,SportsInfo,game 1,SportsInfo,game 1 SportsInfo
+game_injury,stadium,game injury,stadium,game injury stadium
+game_injury,game,game injury,game,game injury game
+game_injury,injury_accident,game injury,injury accident,game injury injury accident
+gas_company,company,gas company,company,gas company company
+gas_company,gas_station,gas company,gas station,gas company gas station
+gas_company,station_company,gas company,station company,gas company station company
+geo,state,geo,state,geo state
+geo,city,geo,city,geo city
+geo,border_info,geo,border info,geo border info
+geo,highlow,geo,highlow,geo highlow
+geo,lake,geo,lake,geo lake
+geo,mountain,geo,mountain,geo mountain
+geo,river,geo,river,geo river
+gymnast,gymnast,gymnast,gymnast,gymnast gymnast
+gymnast,people,gymnast,people,gymnast people
+hospital_1,Physician,hospital 1,Physician,hospital 1 Physician
+hospital_1,Department,hospital 1,Department,hospital 1 Department
+hospital_1,Affiliated_With,hospital 1,Affiliated With,hospital 1 Affiliated With
+hospital_1,Procedures,hospital 1,Procedures,hospital 1 Procedures
+hospital_1,Trained_In,hospital 1,Trained In,hospital 1 Trained In
+hospital_1,Patient,hospital 1,Patient,hospital 1 Patient
+hospital_1,Nurse,hospital 1,Nurse,hospital 1 Nurse
+hospital_1,Appointment,hospital 1,Appointment,hospital 1 Appointment
+hospital_1,Medication,hospital 1,Medication,hospital 1 Medication
+hospital_1,Prescribes,hospital 1,Prescribes,hospital 1 Prescribes
+hospital_1,Block,hospital 1,Block,hospital 1 Block
+hospital_1,Room,hospital 1,Room,hospital 1 Room
+hospital_1,On_Call,hospital 1,On Call,hospital 1 On Call
+hospital_1,Stay,hospital 1,Stay,hospital 1 Stay
+hospital_1,Undergoes,hospital 1,Undergoes,hospital 1 Undergoes
+imdb,actor,imdb,actor,imdb actor
+imdb,copyright,imdb,copyright,imdb copyright
+imdb,cast,imdb,cast,imdb cast
+imdb,genre,imdb,genre,imdb genre
+imdb,classification,imdb,classification,imdb classification
+imdb,company,imdb,company,imdb company
+imdb,director,imdb,director,imdb director
+imdb,producer,imdb,producer,imdb producer
+imdb,directed_by,imdb,directed by,imdb directed by
+imdb,keyword,imdb,keyword,imdb keyword
+imdb,made_by,imdb,made by,imdb made by
+imdb,movie,imdb,movie,imdb movie
+imdb,tags,imdb,tags,imdb tags
+imdb,tv_series,imdb,tv series,imdb tv series
+imdb,writer,imdb,writer,imdb writer
+imdb,written_by,imdb,written by,imdb written by
+insurance_and_eClaims,Customers,insurance and eClaims,Customers,insurance and eClaims Customers
+insurance_and_eClaims,Staff,insurance and eClaims,Staff,insurance and eClaims Staff
+insurance_and_eClaims,Policies,insurance and eClaims,Policies,insurance and eClaims Policies
+insurance_and_eClaims,Claim_Headers,insurance and eClaims,Claim Headers,insurance and eClaims Claim Headers
+insurance_and_eClaims,Claims_Documents,insurance and eClaims,Claims Documents,insurance and eClaims Claims Documents
+insurance_and_eClaims,Claims_Processing_Stages,insurance and eClaims,Claims Processing Stages,insurance and eClaims Claims Processing Stages
+insurance_and_eClaims,Claims_Processing,insurance and eClaims,Claims Processing,insurance and eClaims Claims Processing
+insurance_fnol,Customers,insurance fnol,Customers,insurance fnol Customers
+insurance_fnol,Services,insurance fnol,Services,insurance fnol Services
+insurance_fnol,Available_Policies,insurance fnol,Available Policies,insurance fnol Available Policies
+insurance_fnol,Customers_Policies,insurance fnol,Customers Policies,insurance fnol Customers Policies
+insurance_fnol,First_Notification_of_Loss,insurance fnol,First Notification of Loss,insurance fnol First Notification of Loss
+insurance_fnol,Claims,insurance fnol,Claims,insurance fnol Claims
+insurance_fnol,Settlements,insurance fnol,Settlements,insurance fnol Settlements
+insurance_policies,Customers,insurance policies,Customers,insurance policies Customers
+insurance_policies,Customer_Policies,insurance policies,Customer Policies,insurance policies Customer Policies
+insurance_policies,Claims,insurance policies,Claims,insurance policies Claims
+insurance_policies,Settlements,insurance policies,Settlements,insurance policies Settlements
+insurance_policies,Payments,insurance policies,Payments,insurance policies Payments
+loan_1,bank,loan 1,bank,loan 1 bank
+loan_1,customer,loan 1,customer,loan 1 customer
+loan_1,loan,loan 1,loan,loan 1 loan
+local_govt_and_lot,Customers,local govt and lot,Customers,local govt and lot Customers
+local_govt_and_lot,Properties,local govt and lot,Properties,local govt and lot Properties
+local_govt_and_lot,Residents,local govt and lot,Residents,local govt and lot Residents
+local_govt_and_lot,Organizations,local govt and lot,Organizations,local govt and lot Organizations
+local_govt_and_lot,Services,local govt and lot,Services,local govt and lot Services
+local_govt_and_lot,Residents_Services,local govt and lot,Residents Services,local govt and lot Residents Services
+local_govt_and_lot,Things,local govt and lot,Things,local govt and lot Things
+local_govt_and_lot,Customer_Events,local govt and lot,Customer Events,local govt and lot Customer Events
+local_govt_and_lot,Customer_Event_Notes,local govt and lot,Customer Event Notes,local govt and lot Customer Event Notes
+local_govt_and_lot,Timed_Status_of_Things,local govt and lot,Timed Status of Things,local govt and lot Timed Status of Things
+local_govt_and_lot,Timed_Locations_of_Things,local govt and lot,Timed Locations of Things,local govt and lot Timed Locations of Things
+local_govt_in_alabama,Services,local govt in alabama,Services,local govt in alabama Services
+local_govt_in_alabama,Participants,local govt in alabama,Participants,local govt in alabama Participants
+local_govt_in_alabama,Events,local govt in alabama,Events,local govt in alabama Events
+local_govt_in_alabama,Participants_in_Events,local govt in alabama,Participants in Events,local govt in alabama Participants in Events
+local_govt_mdm,Customer_Master_Index,local govt mdm,Customer Master Index,local govt mdm Customer Master Index
+local_govt_mdm,CMI_Cross_References,local govt mdm,CMI Cross References,local govt mdm CMI Cross References
+local_govt_mdm,Council_Tax,local govt mdm,Council Tax,local govt mdm Council Tax
+local_govt_mdm,Business_Rates,local govt mdm,Business Rates,local govt mdm Business Rates
+local_govt_mdm,Benefits_Overpayments,local govt mdm,Benefits Overpayments,local govt mdm Benefits Overpayments
+local_govt_mdm,Parking_Fines,local govt mdm,Parking Fines,local govt mdm Parking Fines
+local_govt_mdm,Rent_Arrears,local govt mdm,Rent Arrears,local govt mdm Rent Arrears
+local_govt_mdm,Electoral_Register,local govt mdm,Electoral Register,local govt mdm Electoral Register
+machine_repair,repair,machine repair,repair,machine repair repair
+machine_repair,machine,machine repair,machine,machine repair machine
+machine_repair,technician,machine repair,technician,machine repair technician
+machine_repair,repair_assignment,machine repair,repair assignment,machine repair repair assignment
+manufactory_1,Manufacturers,manufactory 1,Manufacturers,manufactory 1 Manufacturers
+manufactory_1,Products,manufactory 1,Products,manufactory 1 Products
+manufacturer,manufacturer,manufacturer,manufacturer,manufacturer manufacturer
+manufacturer,furniture,manufacturer,furniture,manufacturer furniture
+manufacturer,furniture_manufacte,manufacturer,furniture manufacte,manufacturer furniture manufacte
+match_season,country,match season,country,match season country
+match_season,team,match season,team,match season team
+match_season,match_season,match season,match season,match season match season
+match_season,player,match season,player,match season player
+medicine_enzyme_interaction,medicine,medicine enzyme interaction,medicine,medicine enzyme interaction medicine
+medicine_enzyme_interaction,enzyme,medicine enzyme interaction,enzyme,medicine enzyme interaction enzyme
+medicine_enzyme_interaction,medicine_enzyme_interaction,medicine enzyme interaction,medicine enzyme interaction,medicine enzyme interaction medicine enzyme interaction
+movie_1,Movie,movie 1,Movie,movie 1 Movie
+movie_1,Reviewer,movie 1,Reviewer,movie 1 Reviewer
+movie_1,Rating,movie 1,Rating,movie 1 Rating
+museum_visit,museum,museum visit,museum,museum visit museum
+museum_visit,visitor,museum visit,visitor,museum visit visitor
+museum_visit,visit,museum visit,visit,museum visit visit
+music_1,genre,music 1,genre,music 1 genre
+music_1,artist,music 1,artist,music 1 artist
+music_1,files,music 1,files,music 1 files
+music_1,song,music 1,song,music 1 song
+music_2,Songs,music 2,Songs,music 2 Songs
+music_2,Albums,music 2,Albums,music 2 Albums
+music_2,Band,music 2,Band,music 2 Band
+music_2,Instruments,music 2,Instruments,music 2 Instruments
+music_2,Performance,music 2,Performance,music 2 Performance
+music_2,Tracklists,music 2,Tracklists,music 2 Tracklists
+music_2,Vocals,music 2,Vocals,music 2 Vocals
+music_4,artist,music 4,artist,music 4 artist
+music_4,volume,music 4,volume,music 4 volume
+music_4,music_festival,music 4,music festival,music 4 music festival
+musical,musical,musical,musical,musical musical
+musical,actor,musical,actor,musical actor
+network_1,Highschooler,network 1,Highschooler,network 1 Highschooler
+network_1,Friend,network 1,Friend,network 1 Friend
+network_1,Likes,network 1,Likes,network 1 Likes
+network_2,Person,network 2,Person,network 2 Person
+network_2,PersonFriend,network 2,PersonFriend,network 2 PersonFriend
+news_report,event,news report,event,news report event
+news_report,journalist,news report,journalist,news report journalist
+news_report,news_report,news report,news report,news report news report
+orchestra,conductor,orchestra,conductor,orchestra conductor
+orchestra,orchestra,orchestra,orchestra,orchestra orchestra
+orchestra,performance,orchestra,performance,orchestra performance
+orchestra,show,orchestra,show,orchestra show
+party_host,party,party host,party,party host party
+party_host,host,party host,host,party host host
+party_host,party_host,party host,party host,party host party host
+party_people,region,party people,region,party people region
+party_people,party,party people,party,party people party
+party_people,member,party people,member,party people member
+party_people,party_events,party people,party events,party people party events
+performance_attendance,member,performance attendance,member,performance attendance member
+performance_attendance,performance,performance attendance,performance,performance attendance performance
+performance_attendance,member_attendance,performance attendance,member attendance,performance attendance member attendance
+perpetrator,perpetrator,perpetrator,perpetrator,perpetrator perpetrator
+perpetrator,people,perpetrator,people,perpetrator people
+pets_1,Student,pets 1,Student,pets 1 Student
+pets_1,Has_Pet,pets 1,Has Pet,pets 1 Has Pet
+pets_1,Pets,pets 1,Pets,pets 1 Pets
+phone_market,phone,phone market,phone,phone market phone
+phone_market,market,phone market,market,phone market market
+phone_market,phone_market,phone market,phone market,phone market phone market
+pilot_record,aircraft,pilot record,aircraft,pilot record aircraft
+pilot_record,pilot,pilot record,pilot,pilot record pilot
+pilot_record,pilot_record,pilot record,pilot record,pilot record pilot record
+poker_player,poker_player,poker player,poker player,poker player poker player
+poker_player,people,poker player,people,poker player people
+product_catalog,Attribute_Definitions,product catalog,Attribute Definitions,product catalog Attribute Definitions
+product_catalog,Catalogs,product catalog,Catalogs,product catalog Catalogs
+product_catalog,Catalog_Structure,product catalog,Catalog Structure,product catalog Catalog Structure
+product_catalog,Catalog_Contents,product catalog,Catalog Contents,product catalog Catalog Contents
+product_catalog,Catalog_Contents_Additional_Attributes,product catalog,Catalog Contents Additional Attributes,product catalog Catalog Contents Additional Attributes
+products_for_hire,Discount_Coupons,products for hire,Discount Coupons,products for hire Discount Coupons
+products_for_hire,Customers,products for hire,Customers,products for hire Customers
+products_for_hire,Bookings,products for hire,Bookings,products for hire Bookings
+products_for_hire,Products_for_Hire,products for hire,Products for Hire,products for hire Products for Hire
+products_for_hire,Payments,products for hire,Payments,products for hire Payments
+products_for_hire,Products_Booked,products for hire,Products Booked,products for hire Products Booked
+products_for_hire,View_Product_Availability,products for hire,View Product Availability,products for hire View Product Availability
+products_gen_characteristics,Ref_Characteristic_Types,products gen characteristics,Ref Characteristic Types,products gen characteristics Ref Characteristic Types
+products_gen_characteristics,Ref_Colors,products gen characteristics,Ref Colors,products gen characteristics Ref Colors
+products_gen_characteristics,Ref_Product_Categories,products gen characteristics,Ref Product Categories,products gen characteristics Ref Product Categories
+products_gen_characteristics,Characteristics,products gen characteristics,Characteristics,products gen characteristics Characteristics
+products_gen_characteristics,Products,products gen characteristics,Products,products gen characteristics Products
+products_gen_characteristics,Product_Characteristics,products gen characteristics,Product Characteristics,products gen characteristics Product Characteristics
+program_share,program,program share,program,program share program
+program_share,channel,program share,channel,program share channel
+program_share,broadcast,program share,broadcast,program share broadcast
+program_share,broadcast_share,program share,broadcast share,program share broadcast share
+protein_institute,building,protein institute,building,protein institute building
+protein_institute,Institution,protein institute,Institution,protein institute Institution
+protein_institute,protein,protein institute,protein,protein institute protein
+race_track,race,race track,race,race track race
+race_track,track,race track,track,race track track
+railway,railway,railway,railway,railway railway
+railway,train,railway,train,railway train
+railway,manager,railway,manager,railway manager
+railway,railway_manage,railway,railway manage,railway railway manage
+real_estate_properties,Ref_Feature_Types,real estate properties,Ref Feature Types,real estate properties Ref Feature Types
+real_estate_properties,Ref_Property_Types,real estate properties,Ref Property Types,real estate properties Ref Property Types
+real_estate_properties,Other_Available_Features,real estate properties,Other Available Features,real estate properties Other Available Features
+real_estate_properties,Properties,real estate properties,Properties,real estate properties Properties
+real_estate_properties,Other_Property_Features,real estate properties,Other Property Features,real estate properties Other Property Features
+restaurant_1,Student,restaurant 1,Student,restaurant 1 Student
+restaurant_1,Restaurant,restaurant 1,Restaurant,restaurant 1 Restaurant
+restaurant_1,Type_Of_Restaurant,restaurant 1,Type Of Restaurant,restaurant 1 Type Of Restaurant
+restaurant_1,Restaurant_Type,restaurant 1,Restaurant Type,restaurant 1 Restaurant Type
+restaurant_1,Visits_Restaurant,restaurant 1,Visits Restaurant,restaurant 1 Visits Restaurant
+restaurants,GEOGRAPHIC,restaurants,GEOGRAPHIC,restaurants GEOGRAPHIC
+restaurants,RESTAURANT,restaurants,RESTAURANT,restaurants RESTAURANT
+restaurants,LOCATION,restaurants,LOCATION,restaurants LOCATION
+roller_coaster,roller_coaster,roller coaster,roller coaster,roller coaster roller coaster
+roller_coaster,country,roller coaster,country,roller coaster country
+sakila_1,actor,sakila 1,actor,sakila 1 actor
+sakila_1,address,sakila 1,address,sakila 1 address
+sakila_1,category,sakila 1,category,sakila 1 category
+sakila_1,city,sakila 1,city,sakila 1 city
+sakila_1,country,sakila 1,country,sakila 1 country
+sakila_1,customer,sakila 1,customer,sakila 1 customer
+sakila_1,film,sakila 1,film,sakila 1 film
+sakila_1,film_actor,sakila 1,film actor,sakila 1 film actor
+sakila_1,film_category,sakila 1,film category,sakila 1 film category
+sakila_1,film_text,sakila 1,film text,sakila 1 film text
+sakila_1,inventory,sakila 1,inventory,sakila 1 inventory
+sakila_1,language,sakila 1,language,sakila 1 language
+sakila_1,payment,sakila 1,payment,sakila 1 payment
+sakila_1,rental,sakila 1,rental,sakila 1 rental
+sakila_1,staff,sakila 1,staff,sakila 1 staff
+sakila_1,store,sakila 1,store,sakila 1 store
+scholar,venue,scholar,venue,scholar venue
+scholar,author,scholar,author,scholar author
+scholar,dataset,scholar,dataset,scholar dataset
+scholar,journal,scholar,journal,scholar journal
+scholar,keyphrase,scholar,keyphrase,scholar keyphrase
+scholar,paper,scholar,paper,scholar paper
+scholar,cite,scholar,cite,scholar cite
+scholar,paperDataset,scholar,paperDataset,scholar paperDataset
+scholar,paperKeyphrase,scholar,paperKeyphrase,scholar paperKeyphrase
+scholar,writes,scholar,writes,scholar writes
+school_bus,driver,school bus,driver,school bus driver
+school_bus,school,school bus,school,school bus school
+school_bus,school_bus,school bus,school bus,school bus school bus
+school_finance,School,school finance,School,school finance School
+school_finance,budget,school finance,budget,school finance budget
+school_finance,endowment,school finance,endowment,school finance endowment
+school_player,school,school player,school,school player school
+school_player,school_details,school player,school details,school player school details
+school_player,school_performance,school player,school performance,school player school performance
+school_player,player,school player,player,school player player
+scientist_1,Scientists,scientist 1,Scientists,scientist 1 Scientists
+scientist_1,Projects,scientist 1,Projects,scientist 1 Projects
+scientist_1,AssignedTo,scientist 1,AssignedTo,scientist 1 AssignedTo
+ship_1,captain,ship 1,captain,ship 1 captain
+ship_1,Ship,ship 1,Ship,ship 1 Ship
+ship_mission,mission,ship mission,mission,ship mission mission
+ship_mission,ship,ship mission,ship,ship mission ship
+shop_membership,member,shop membership,member,shop membership member
+shop_membership,branch,shop membership,branch,shop membership branch
+shop_membership,membership_register_branch,shop membership,membership register branch,shop membership membership register branch
+shop_membership,purchase,shop membership,purchase,shop membership purchase
+singer,singer,singer,singer,singer singer
+singer,song,singer,song,singer song
+soccer_1,Player_Attributes,soccer 1,Player Attributes,soccer 1 Player Attributes
+soccer_1,Player,soccer 1,Player,soccer 1 Player
+soccer_1,Match,soccer 1,Match,soccer 1 Match
+soccer_1,League,soccer 1,League,soccer 1 League
+soccer_1,Country,soccer 1,Country,soccer 1 Country
+soccer_1,Team,soccer 1,Team,soccer 1 Team
+soccer_1,Team_Attributes,soccer 1,Team Attributes,soccer 1 Team Attributes
+solvency_ii,Addresses,solvency ii,Addresses,solvency ii Addresses
+solvency_ii,Locations,solvency ii,Locations,solvency ii Locations
+solvency_ii,Products,solvency ii,Products,solvency ii Products
+solvency_ii,Parties,solvency ii,Parties,solvency ii Parties
+solvency_ii,Assets,solvency ii,Assets,solvency ii Assets
+solvency_ii,Channels,solvency ii,Channels,solvency ii Channels
+solvency_ii,Finances,solvency ii,Finances,solvency ii Finances
+solvency_ii,Events,solvency ii,Events,solvency ii Events
+solvency_ii,Products_in_Events,solvency ii,Products in Events,solvency ii Products in Events
+solvency_ii,Parties_in_Events,solvency ii,Parties in Events,solvency ii Parties in Events
+solvency_ii,Agreements,solvency ii,Agreements,solvency ii Agreements
+solvency_ii,Assets_in_Events,solvency ii,Assets in Events,solvency ii Assets in Events
+sports_competition,club,sports competition,club,sports competition club
+sports_competition,club_rank,sports competition,club rank,sports competition club rank
+sports_competition,player,sports competition,player,sports competition player
+sports_competition,competition,sports competition,competition,sports competition competition
+sports_competition,competition_result,sports competition,competition result,sports competition competition result
+station_weather,train,station weather,train,station weather train
+station_weather,station,station weather,station,station weather station
+station_weather,route,station weather,route,station weather route
+station_weather,weekly_weather,station weather,weekly weather,station weather weekly weather
+store_1,artists,store 1,artists,store 1 artists
+store_1,albums,store 1,albums,store 1 albums
+store_1,employees,store 1,employees,store 1 employees
+store_1,customers,store 1,customers,store 1 customers
+store_1,genres,store 1,genres,store 1 genres
+store_1,invoices,store 1,invoices,store 1 invoices
+store_1,media_types,store 1,media types,store 1 media types
+store_1,tracks,store 1,tracks,store 1 tracks
+store_1,invoice_lines,store 1,invoice lines,store 1 invoice lines
+store_1,playlists,store 1,playlists,store 1 playlists
+store_1,playlist_tracks,store 1,playlist tracks,store 1 playlist tracks
+store_product,product,store product,product,store product product
+store_product,store,store product,store,store product store
+store_product,district,store product,district,store product district
+store_product,store_product,store product,store product,store product store product
+store_product,store_district,store product,store district,store product store district
+storm_record,storm,storm record,storm,storm record storm
+storm_record,region,storm record,region,storm record region
+storm_record,affected_region,storm record,affected region,storm record affected region
+student_assessment,Addresses,student assessment,Addresses,student assessment Addresses
+student_assessment,People,student assessment,People,student assessment People
+student_assessment,Students,student assessment,Students,student assessment Students
+student_assessment,Courses,student assessment,Courses,student assessment Courses
+student_assessment,People_Addresses,student assessment,People Addresses,student assessment People Addresses
+student_assessment,Student_Course_Registrations,student assessment,Student Course Registrations,student assessment Student Course Registrations
+student_assessment,Student_Course_Attendance,student assessment,Student Course Attendance,student assessment Student Course Attendance
+student_assessment,Candidates,student assessment,Candidates,student assessment Candidates
+student_assessment,Candidate_Assessments,student assessment,Candidate Assessments,student assessment Candidate Assessments
+student_transcripts_tracking,Addresses,student transcripts tracking,Addresses,student transcripts tracking Addresses
+student_transcripts_tracking,Courses,student transcripts tracking,Courses,student transcripts tracking Courses
+student_transcripts_tracking,Departments,student transcripts tracking,Departments,student transcripts tracking Departments
+student_transcripts_tracking,Degree_Programs,student transcripts tracking,Degree Programs,student transcripts tracking Degree Programs
+student_transcripts_tracking,Sections,student transcripts tracking,Sections,student transcripts tracking Sections
+student_transcripts_tracking,Semesters,student transcripts tracking,Semesters,student transcripts tracking Semesters
+student_transcripts_tracking,Students,student transcripts tracking,Students,student transcripts tracking Students
+student_transcripts_tracking,Student_Enrolment,student transcripts tracking,Student Enrolment,student transcripts tracking Student Enrolment
+student_transcripts_tracking,Student_Enrolment_Courses,student transcripts tracking,Student Enrolment Courses,student transcripts tracking Student Enrolment Courses
+student_transcripts_tracking,Transcripts,student transcripts tracking,Transcripts,student transcripts tracking Transcripts
+student_transcripts_tracking,Transcript_Contents,student transcripts tracking,Transcript Contents,student transcripts tracking Transcript Contents
+swimming,swimmer,swimming,swimmer,swimming swimmer
+swimming,stadium,swimming,stadium,swimming stadium
+swimming,event,swimming,event,swimming event
+swimming,record,swimming,record,swimming record
+theme_gallery,artist,theme gallery,artist,theme gallery artist
+theme_gallery,exhibition,theme gallery,exhibition,theme gallery exhibition
+theme_gallery,exhibition_record,theme gallery,exhibition record,theme gallery exhibition record
+tracking_grants_for_research,Document_Types,tracking grants for research,Document Types,tracking grants for research Document Types
+tracking_grants_for_research,Documents,tracking grants for research,Documents,tracking grants for research Documents
+tracking_grants_for_research,Grants,tracking grants for research,Grants,tracking grants for research Grants
+tracking_grants_for_research,Organisation_Types,tracking grants for research,Organisation Types,tracking grants for research Organisation Types
+tracking_grants_for_research,Organisations,tracking grants for research,Organisations,tracking grants for research Organisations
+tracking_grants_for_research,Project_Outcomes,tracking grants for research,Project Outcomes,tracking grants for research Project Outcomes
+tracking_grants_for_research,Project_Staff,tracking grants for research,Project Staff,tracking grants for research Project Staff
+tracking_grants_for_research,Projects,tracking grants for research,Projects,tracking grants for research Projects
+tracking_grants_for_research,Research_Outcomes,tracking grants for research,Research Outcomes,tracking grants for research Research Outcomes
+tracking_grants_for_research,Research_Staff,tracking grants for research,Research Staff,tracking grants for research Research Staff
+tracking_grants_for_research,Staff_Roles,tracking grants for research,Staff Roles,tracking grants for research Staff Roles
+tracking_grants_for_research,Tasks,tracking grants for research,Tasks,tracking grants for research Tasks
+tracking_orders,Customers,tracking orders,Customers,tracking orders Customers
+tracking_orders,Invoices,tracking orders,Invoices,tracking orders Invoices
+tracking_orders,Orders,tracking orders,Orders,tracking orders Orders
+tracking_orders,Products,tracking orders,Products,tracking orders Products
+tracking_orders,Order_Items,tracking orders,Order Items,tracking orders Order Items
+tracking_orders,Shipments,tracking orders,Shipments,tracking orders Shipments
+tracking_orders,Shipment_Items,tracking orders,Shipment Items,tracking orders Shipment Items
+tracking_share_transactions,Investors,tracking share transactions,Investors,tracking share transactions Investors
+tracking_share_transactions,Lots,tracking share transactions,Lots,tracking share transactions Lots
+tracking_share_transactions,Ref_Transaction_Types,tracking share transactions,Ref Transaction Types,tracking share transactions Ref Transaction Types
+tracking_share_transactions,Transactions,tracking share transactions,Transactions,tracking share transactions Transactions
+tracking_share_transactions,Sales,tracking share transactions,Sales,tracking share transactions Sales
+tracking_share_transactions,Purchases,tracking share transactions,Purchases,tracking share transactions Purchases
+tracking_share_transactions,Transactions_Lots,tracking share transactions,Transactions Lots,tracking share transactions Transactions Lots
+tracking_software_problems,Problem_Category_Codes,tracking software problems,Problem Category Codes,tracking software problems Problem Category Codes
+tracking_software_problems,Problem_Log,tracking software problems,Problem Log,tracking software problems Problem Log
+tracking_software_problems,Problem_Status_Codes,tracking software problems,Problem Status Codes,tracking software problems Problem Status Codes
+tracking_software_problems,Product,tracking software problems,Product,tracking software problems Product
+tracking_software_problems,Staff,tracking software problems,Staff,tracking software problems Staff
+tracking_software_problems,Problems,tracking software problems,Problems,tracking software problems Problems
+train_station,station,train station,station,train station station
+train_station,train,train station,train,train station train
+train_station,train_station,train station,train station,train station train station
+university_basketball,basketball_match,university basketball,basketball match,university basketball basketball match
+university_basketball,university,university basketball,university,university basketball university
+voter_2,Student,voter 2,Student,voter 2 Student
+voter_2,Voting_record,voter 2,Voting record,voter 2 Voting record
+wedding,people,wedding,people,wedding people
+wedding,church,wedding,church,wedding church
+wedding,wedding,wedding,wedding,wedding wedding
+workshop_paper,workshop,workshop paper,workshop,workshop paper workshop
+workshop_paper,submission,workshop paper,submission,workshop paper submission
+workshop_paper,Acceptance,workshop paper,Acceptance,workshop paper Acceptance
+wrestler,wrestler,wrestler,wrestler,wrestler wrestler
+wrestler,Elimination,wrestler,Elimination,wrestler Elimination
+yelp,business,yelp,business,yelp business
+yelp,category,yelp,category,yelp category
+yelp,user,yelp,user,yelp user
+yelp,checkin,yelp,checkin,yelp checkin
+yelp,neighbourhood,yelp,neighbourhood,yelp neighbourhood
+yelp,review,yelp,review,yelp review
+yelp,tip,yelp,tip,yelp tip
